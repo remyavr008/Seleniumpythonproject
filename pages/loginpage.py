@@ -1,4 +1,4 @@
-import self
+#import self
 from selenium.webdriver.common.by import By
 
 
