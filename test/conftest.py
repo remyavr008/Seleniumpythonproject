@@ -4,7 +4,7 @@ import time
 from datetime import datetime
 
 import pytest
-import self
+
 from selenium import webdriver
 
 from utilities import ScreenshotUtility
